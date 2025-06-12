@@ -13,6 +13,7 @@ FutureSearch je jednoduchý nástroj pro [vyhledávání informací](https://fut
 
 ## 📸 Screenshot
 
-![screenshot](https://github.com/WebRatings-search/WebRatings-search/screenshot.jpg)
-![screenshot2](https://github.com/WebRatings-search/WebRatings-search/screenshot2.jpg)
-![screenshot3](https://github.com/WebRatings-search/WebRatings-search/screenshot3.jpg)
+![screenshot](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot.jpg)
+![screenshot2](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot2.jpg)
+![screenshot3](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot3.jpg)
+![screenshot4](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot4.jpg)
