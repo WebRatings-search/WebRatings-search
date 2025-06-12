@@ -1,16 +1,18 @@
-## Hi there 👋
+# FutureSearch 🔍
 
-<!--
-**WebRatings-search/WebRatings-search** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FutureSearch je jednoduchý nástroj pro [vyhledávání informací](https://futuresearch.netlify.app) s důrazem na čistý design a rychlost.
 
-Here are some ideas to get you started:
+## 🌟 Funkce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bleskové hledání s instantními výsledky
+- Responzivní UI vhodné i pro mobil
+
+## 🌐 Vyzkoušej online
+
+👉 [Otevřít FutureSearch online](https://futuresearch.netlify.app)
+
+## 📸 Screenshot
+
+![screenshot](https://github.com/WebRatings-search/WebRatings-search/screenshot.jpg)
+![screenshot2](https://github.com/WebRatings-search/WebRatings-search/screenshot2.jpg)
+![screenshot3](https://github.com/WebRatings-search/WebRatings-search/screenshot3.jpg)
