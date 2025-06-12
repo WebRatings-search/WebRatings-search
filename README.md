@@ -1,19 +1,21 @@
-# FutureSearch 🔍
+# 🌐 FutureSearch (WebRatings)
 
-FutureSearch je jednoduchý nástroj pro [vyhledávání informací](https://futuresearch.netlify.app) s důrazem na čistý design a rychlost.
+**FutureSearch** je nástroj pro analýzu a predikci dat na webu.  
+Soustředí se na přesnost, rychlost a jednoduché použití.
 
-## 🌟 Funkce
+👉 Vyzkoušej zde: [https://futuresearch.netlify.app](https://futuresearch.netlify.app)
 
-- Bleskové hledání s instantními výsledky
-- Responzivní UI vhodné i pro mobil
+> Projekt zatím není open-source, ale plánujeme otevřít části kódu v budoucnu.
 
-## 🌐 Vyzkoušej online
+---
 
-👉 [Otevřít FutureSearch online](https://futuresearch.netlify.app)
+### 📌 Co umí:
+- 📈 Predikce chování uživatelů
+- ⚡ Okamžitý přístup bez instalace
+- 🧠 Využití AI pro analýzu dat
 
-## 📸 Screenshot
+---
 
-![screenshot](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot.jpg)
-![screenshot2](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot2.jpg)
-![screenshot3](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot3.jpg)
-![screenshot4](https://github.com/WebRatings-search/WebRatings-search/blob/main/screenshot4.jpg)
+### 🛠 Technologie:
+- React, TailwindCSS, Vite
+- Netlify hosting
